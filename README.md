@@ -1,4 +1,4 @@
-# Restaurant Review Sentiment Analysis
+# Restaurant Review Sentiment Analysis using Natural Language Processing (NLP)
 
 This project was developed as a task assigned by **SkyHighes Technologies** during my internship as an AI-ML intern. The main objective of this project is to classify restaurant reviews as positive or negative based on text data using Natural Language Processing (NLP) techniques. The dataset used, `Restaurant_Reviews.tsv`, consists of user reviews with corresponding labels indicating whether the review was positive (liked) or negative (not liked). The project demonstrates text preprocessing, feature extraction, and classification model training.
 
@@ -41,3 +41,4 @@ To run the project, follow these steps:
 
 
 Feel free to modify any sections as needed!
+
