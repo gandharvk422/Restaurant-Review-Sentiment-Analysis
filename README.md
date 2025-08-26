@@ -1,5 +1,3 @@
-# Natural Language Processing (NLP) for Text Classification
-
 # Restaurant Review Sentiment Analysis
 
 This project was developed as a task assigned by **SkyHighes Technologies** during my internship as an AI-ML intern. The main objective of this project is to classify restaurant reviews as positive or negative based on text data using Natural Language Processing (NLP) techniques. The dataset used, `Restaurant_Reviews.tsv`, consists of user reviews with corresponding labels indicating whether the review was positive (liked) or negative (not liked). The project demonstrates text preprocessing, feature extraction, and classification model training.
@@ -18,7 +16,7 @@ To run the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone "https://github.com/gandharvk422/NLP_Text_Classification"
+   git clone "https://github.com/gandharvk422/Restaurant-Review-Sentiment-Analysis"
    ```
 
 2. Install the required libraries:
@@ -40,5 +38,6 @@ To run the project, follow these steps:
 ## Acknowledgments
 
 * This project was assigned by **SkyHighes Technologies** as part of my AI-ML internship.
+
 
 Feel free to modify any sections as needed!
